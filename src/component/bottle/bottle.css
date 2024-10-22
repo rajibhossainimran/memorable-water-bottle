@@ -6,3 +6,10 @@
     padding: 20px;
     border-radius: 20px;
 }
+.bottle-container button{
+    background-color: rgb(62, 150, 62);
+    color: white;
+}
+.bottle-container button:hover{
+    background-color: rgb(55, 173, 173);
+}
